@@ -1,0 +1,7 @@
+[Incremetar EAX]
+40					;inc eax
+C3					;ret
+
+[Incrementar ECX]
+41					;inc ecx
+C3					;ret

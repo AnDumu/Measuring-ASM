@@ -1,0 +1,7 @@
+﻿  Measuring ASM.cpp
+C:\Users\ASUS\Documents\Visual Studio 2022\Projects\Measuring ASM\Measuring ASM\Measuring ASM.cpp(9,34): warning C4229: anachronism used: modifiers on data are ignored
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 366 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Measuring ASM.vcxproj -> C:\Users\ASUS\Documents\Visual Studio 2022\Projects\Measuring ASM\Release\Measuring ASM.exe
