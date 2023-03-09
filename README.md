@@ -1,7 +1,7 @@
 # Measuring-ASM
 ## Visual Studio 2022 C++
 
-How to test it, in file archivo.txt
+How to test it, in file **archivo.txt**
 
 ```ASM
 [Incremetar EAX]
@@ -13,6 +13,6 @@ C3					;ret
 C3					;ret
 ```
 
-Between `[` you have a description, below the opcodes (machine code) remember to include the **C3** (ret), you can also add comments.
+Between `[` you have a **description**, below the **opcodes** (machine code), don't forget to include the **C3** (ret) and you can also add **comments**.
 
 ![image](https://user-images.githubusercontent.com/79341269/223988021-3734d71f-2789-445c-a4f5-85a73e454b77.png)
